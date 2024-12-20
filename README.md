@@ -31,7 +31,7 @@ Hello everyone, this is a machine learning model deployment project where we hav
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
 2. **Create the Workspace**  
 
-       daytona create https://github.com/kittupriyatham/Quira-Daytona-023
+       daytona create https://github.com/daytonaio/sample-python-flask-ml-model-deployment
 
 3. launch the flask server using command:
 
